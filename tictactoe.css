@@ -14,12 +14,15 @@
 
 	h1 {
 		text-align: center;
-		color: white;	
+		color: white;
+		font-family: 'Sue Ellen Francisco', cursive;	
+		
 	}
 
 	h2 {
 		color: white;
 		font-size: 40px;
+		font-family: 'Butcherman', cursive;'
 	}
 
 	table {
@@ -54,8 +57,9 @@
 button {
 	margin: 4rem;
 	width: 100px;
-	font-weight: 600;
-	font-size: 12px;
+	/* font-weight: 2100; */
+	font-size: 14px;
 	background-color: black;
 	color: white;
+	font-family: 'Permanent Marker', cursive;
 }
